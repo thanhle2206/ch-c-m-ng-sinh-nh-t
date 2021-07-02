@@ -8,7 +8,7 @@ const CONFIG = {
     btnNo: 'Có, muốn chứ!😋😋',
     question:'Tại sao lại ko cần???',
     btnReply: 'Gửi đi!',
-    reply: 'T lớn rồi mà ko cần phải quà cáp đâu, m nhớ sinh nhật t là đc r😅😅',
+    reply: 'T lớn rồi mà ko cần phải quà cáp j đâu😂😂',
     mess: 'Biết ngay mà😂😂. T hiểu m lắm😁😁',
     messDesc: 'M ko cần nhưng mà t vẫn cần quà nha! Nhớ tặng quà cho t đó!',
     btnAccept: 'Okiiiii lun ',
